@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kol Yom Behal – Every day in a (different) mood/state.
+
+This log tracks the cryptographic history and versioning for the song **Kol Yom Behal – Every day in a (different) mood/state.** (kol-yom-behal-every-day-in-a-different-moodstate).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T09:29:14.900795 | `v1` | `a5de06c5d1ac20cf8663f3d2119442d197dd6d5dbe58fee9533a1f14ff41aecf` | `6d7af4363fd818e2f9dab385f3d67b0958e40a1d10ec012369ce13c90a270787` | `2026-05-09_kol-yom-behal-every-day-in-a-different-moodstate-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
